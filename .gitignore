@@ -1,0 +1,20 @@
+# Archivos de macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Archivos de Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+xcuserdata/
+
+# Archivos de dependencias (Carthage, CocoaPods)
+Pods/
+Carthage/
+.framework/
+.swiftpm/
+
+# Archivos de depuración
+*.log
